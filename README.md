@@ -19,7 +19,7 @@ This repository contains solutions to three JavaScript coding challenges. Each c
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd Code-Challenge-2
+   cd Code-Challenge-1
    ```
 
 2. Navigate to the folder of the specific challenge you want to test:
